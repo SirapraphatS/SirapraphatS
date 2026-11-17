@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sirapraphat S.</h1>
-<h3 align="center">Computer Science student at UTCC, Bangkok</h3>
+<h3 align="center">Computer Science student</h3>
 
 ### About Me
 
