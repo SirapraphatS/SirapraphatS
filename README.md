@@ -5,7 +5,7 @@
 
 I am learning backend development.
 
-I enjoy programming, solving problems, and learning how software works.
+I enjoy programming, solving problems
 
 ### Languages and Tools
 
