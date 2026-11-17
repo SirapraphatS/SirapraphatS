@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sirapraphat S.</h1>
-<h3 align="center">A Computer science student</h3>
+<h1 align="center">Hi, I'm Sirapraphat S.</h1>
+<h3 align="center">Computer Science student at UTCC, Bangkok</h3>
 
-</p>
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am learning backend development with Python and SQL. I like building small projects and testing them.
+
+### Languages and Tools
+
+Python, SQL, JavaScript, Git, pytest
